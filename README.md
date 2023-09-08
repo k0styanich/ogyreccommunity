@@ -1,2 +1,2 @@
-# ogyreccommunity.github.io
+# Ogyrec Community
 Сайт Discord-сервера "ogyrec community"
